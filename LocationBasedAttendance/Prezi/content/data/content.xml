@@ -1,0 +1,1039 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-21285.334968037016" y="-11967.52128523271" width="42570.66993607403" height="23935.04257046542"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>ko</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="15_24309637" type="button" x="6461.938048582864" y="-3841.02231250776" r="0" s="10.071384140518637" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>606.1950521365773</w>
+        <h>340.0768900592342</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="16_24309637" type="button" x="-6664.690776185891" y="6496.460894890645" r="0" s="10.071384140518637" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>606.1950521365773</w>
+        <h>379.91482470714755</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="20_24309637" type="button" x="6459.766012893809" y="226.11697536803285" r="0" s="10.07138414051864" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>606.1950521365773</w>
+        <h>416.3229932705949</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="21_24309637" type="button" x="6459.393090209324" y="3450.7847211760813" r="0" s="10.07138414051864" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>606.1950521365773</w>
+        <h>176.76485085889846</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="24_24309637" type="shape" x="6450.665031918204" y="-4203.563021085199" r="0" s="2.0895279435249483" class="line1">
+      <geom type="line">
+        <sp>-1257.06151196442 0</sp>
+        <ep>1257.06151196442 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="25_24309637" type="shape" x="6450.386080975803" y="-5290.261171185236" r="0" s="2.0895279435249483" class="line1">
+      <geom type="line">
+        <sp>-1257.06151196442 0</sp>
+        <ep>1257.06151196442 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="27_24309637" type="text" x="-6928.314159368709" y="5717.291623205163" r="0" s="10.854690615714023" class="strong">
+      <height>27.6</height>
+      <width>439.3708304221183</width>
+      <p>
+        <text color="16711680"><![CDATA["해답은 HeaderFile"]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="26_24309637" type="text" x="6515.232391917725" y="-4418.328583697815" r="0" s="9.867900559740018" class="strong">
+      <height>27.6</height>
+      <width>548.29350906263</width>
+      <p>
+        <text color="16711680"><![CDATA["두 지점의 위도와 경도를 가지고 거리를 구할수 있음"]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="28_24309637" type="shape" x="-6672.915675261371" y="4875.924434616331" r="0" s="2.0895279435249483" class="line1">
+      <geom type="line">
+        <sp>-1257.06151196442 0</sp>
+        <ep>1257.06151196442 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="29_24309637" type="shape" x="-6672.636724318984" y="5962.622584716376" r="0" s="2.0895279435249483" class="line1">
+      <geom type="line">
+        <sp>-1257.06151196442 0</sp>
+        <ep>1257.06151196442 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="34_24309637" type="image" x="-5119.762767464667" y="7148.434111188712" r="7.958349400163962e-30" s="3.5596565991135902">
+      <source w="614" h="711">1920952234<mask x="0" y="75" w="614" h="559"/>
+      <url>1920952234.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/1/1/b/74f9f57136d9f4f32a126f1e6d5f0089a8a2d.png</sourceUrl>
+      <meta>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>1920952234</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/1/b/74f9f57136d9f4f32a126f1e6d5f0089a8a2d.png</url></resource></object>
+    <object id="41_24309637" type="shape" x="-7866.55717597409" y="7144.925315601403" r="0" s="7.694711859465859" class="poly1">
+      <geom type="poly">
+        <p x="-192.6833328404847" y="-128.1242112964648"/>
+        <p x="192.6833328404847" y="-128.1242112964648"/>
+        <p x="192.6833328404847" y="128.1242112964648"/>
+        <p x="-192.6833328404847" y="128.1242112964648"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="42_24309637" type="shape" x="6461.488111745166" y="-1617.049825890181" r="0" s="2.0895279435249487" class="line1">
+      <geom type="line">
+        <sp>-1257.06151196442 0</sp>
+        <ep>1257.06151196442 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="44_24309637" type="shape" x="6461.767062687565" y="-530.3516757901366" r="0" s="2.0895279435249487" class="line1">
+      <geom type="line">
+        <sp>-1257.06151196442 0</sp>
+        <ep>1257.06151196442 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="47_24309637" type="shape" x="6461.115189060679" y="2813.9589580265033" r="0" s="2.0895279435249487" class="line1">
+      <geom type="line">
+        <sp>-1257.06151196442 0</sp>
+        <ep>1257.06151196442 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="45_24309637" type="text" x="6205.736356893803" y="-748.4827569482762" r="0" s="10.85469061571402" class="strong">
+      <height>27.6</height>
+      <width>439.3708304221183</width>
+      <p>
+        <text color="16711680"><![CDATA["위치를 기반으로 한 출석부 프로그램"]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="48_24309637" type="shape" x="6461.918171589567" y="3550.0608625645045" r="0" s="10.232001415775349" class="poly1">
+      <geom type="poly">
+        <p x="-257.4125601604765" y="-52.70020716618101"/>
+        <p x="257.4125601604765" y="-52.70020716618101"/>
+        <p x="257.4125601604765" y="52.70020716618101"/>
+        <p x="-257.4125601604765" y="52.70020716618101"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="49_24309637" type="image" x="4121.012179538232" y="3215.3849652715244" r="0" s="7.44133086221366">
+      <source w="84" h="65">1307896558<url>1307896558.swf</url></source>
+      <sourceUrl>quote1.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    <resource><id>1307896558</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/4/3/8697a96224256a186e3bcf3ea09cd09f0a069.swf</url></resource></object>
+    <object id="50_24309637" type="image" x="8676.93982886296" y="3817.646007561728" r="0" s="6.511164504436951">
+      <source w="134" h="104">1307896568<url>1307896568.swf</url></source>
+      <sourceUrl>quote2.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    <resource><id>1307896568</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/7/6/0b18e8b1f506ed7451e6e5f0c975eca721b13.swf</url></resource></object>
+    <object id="51_24309637" type="text" x="6461.721027794194" y="3563.6479149595907" r="0" s="13.134175645013968" class="strong">
+      <height>55.2</height>
+      <width>428.4467856642742</width>
+      <p align="center">
+        <text><![CDATA["서버랑 계속해서 통신을 해야만 하는 ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[교수님 App 의 데이터 사용량 문제는?"]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="71_24309637" type="text" x="6399.033573808051" y="-4954.335527272631" r="0" s="27.16374860094918" class="head">
+      <height>24</height>
+      <width>190.60810757843652</width>
+      <p align="justify">
+        <text><![CDATA[Latitude, Longitude]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="72_24309637" type="text" x="6408.693081981931" y="-1270.8082411751222" r="0" s="27.16374860094918" class="head">
+      <height>24</height>
+      <width>190.60810757843652</width>
+      <p align="justify">
+        <text><![CDATA[Blueprint]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="73_24309637" type="text" x="-6710.389109969283" y="5214.995352984038" r="0" s="27.16374860094918" class="head">
+      <height>24</height>
+      <width>190.60810757843652</width>
+      <p align="justify">
+        <text><![CDATA[Topic]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="181_24309637" type="button" x="0" y="-7.716943302863802e-13" r="0" s="48.70786033875747" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>874.4753232125645</w>
+        <h>491.8923693070675</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="284_24309637" type="button" x="-114.7437103213785" y="-8582.64286492348" r="0" s="24.07802301748876" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>800</w>
+        <h>219.8482841425164</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="285_24309637" type="shape" x="-99.98324779382176" y="-7065.521794646803" r="0" s="8.321666608208991" class="line3">
+      <geom type="line">
+        <sp>-1050.1374492314203 0</sp>
+        <ep>1050.1374492314203 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="286_24309637" type="shape" x="-100.01236474158463" y="-6296.1852717890815" r="0" s="8.321666608208991" class="line3">
+      <geom type="line">
+        <sp>-1050.1374492314203 0</sp>
+        <ep>1050.1374492314203 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="287_24309637" type="text" x="8161.429454761424" y="-6712.714115644179" r="0" s="18.8870759576949" class="strong">
+      <height>27.6</height>
+      <width>-65.448</width>
+      <p align="right">
+        <text><![CDATA[$1.25]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="288_24309637" type="text" x="-244.73154804716876" y="-6709.383412766294" r="0" s="18.8870759576949" class="strong">
+      <height>27.6</height>
+      <width>-308.952</width>
+      <p align="center">
+        <text><![CDATA[Monday, February 17, 2014]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="289_24309637" type="text" x="-7196.878462632674" y="-6708.282570547989" r="0" s="18.8870759576949" class="strong">
+      <height>27.6</height>
+      <width>-194.928</width>
+      <p>
+        <text><![CDATA[Vol XCIII, No. 311]]></text>
+      </p>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="291_24309637" type="shape" x="7924.185609580263" y="-8948.863110844051" r="0" s="16.773980747669757" class="poly3">
+      <geom type="poly">
+        <p x="-44.671539306295095" y="-29.838558271523"/>
+        <p x="44.671539306295095" y="-29.838558271523"/>
+        <p x="44.671539306295095" y="29.838558271523"/>
+        <p x="-44.671539306295095" y="29.838558271523"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="292_24309637" type="shape" x="-8129.8316764398705" y="-8948.863110844051" r="0" s="16.773980747669757" class="poly3">
+      <geom type="poly">
+        <p x="-44.671539306295095" y="-29.838558271523"/>
+        <p x="44.671539306295095" y="-29.838558271523"/>
+        <p x="44.671539306295095" y="29.838558271523"/>
+        <p x="-44.671539306295095" y="29.838558271523"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="19_24309637" type="button" x="-3355.1440351301258" y="-675.5331129424652" r="0" s="19.73991291541652" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>646.3187071284824</w>
+        <h>493.9514742832954</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="37_24309637" type="shape" x="-3337.5775463537607" y="-5298.957657544484" r="0.0732731225738527" s="4.076037549125223" class="line1">
+      <geom type="line">
+        <sp>-1473.3583134889864 0</sp>
+        <ep>1473.3583134889864 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="38_24309637" type="text" x="-32.426997669075924" y="-2838.957501117139" r="0" s="19.30200023215875" class="strong">
+      <height>27.6</height>
+      <width>283.76020969281086</width>
+      <p>
+        <text color="16711680"><![CDATA[기존 출석체크의 문제점]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="23_24309637" type="image" x="-6297.743244063237" y="380.6903269992222" r="7.958349400163964e-30" s="9.40595894440752">
+      <source w="600" h="701">1920475759<mask x="0" y="1" w="600" h="697"/>
+      <url>1920475759.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/5/f/b/71b230f621a49a5cdf2962abb7968494f3d26.png</sourceUrl>
+      <meta>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+      <layout>
+        <layout-element role="image"/>
+      </layout>
+    <resource><id>1920475759</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/f/b/71b230f621a49a5cdf2962abb7968494f3d26.png</url></resource></object>
+    <object id="40_24309637" type="shape" x="-27.26837312986115" y="802.7809049431122" r="0" s="15.040526731464766" class="poly1">
+      <style borderThickness="0"/>
+      <style borderThickness="0"/>
+      <geom type="poly">
+        <p x="-186.32423092058423" y="-200.2411965763675"/>
+        <p x="186.32423092058423" y="-200.2411965763675"/>
+        <p x="186.32423092058423" y="200.2411965763675"/>
+        <p x="-186.32423092058423" y="200.2411965763675"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="70_24309637" type="text" x="-3198.078054556865" y="-4478.245502916881" r="0" s="71.31347367799557" class="head">
+      <height>24</height>
+      <width>170.3123434879295</width>
+      <p align="justify">
+        <text><![CDATA[Necessity]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="52_24309637" type="button" x="-88.67411289659523" y="6605.779374060092" r="0" s="10.071384140518637" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>606.1950521365773</w>
+        <h>416.3229932705949</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="53_24309637" type="shape" x="-86.67306310283456" y="5849.310722901927" r="0" s="2.0895279435249487" class="line1">
+      <geom type="line">
+        <sp>-1257.06151196442 0</sp>
+        <ep>1257.06151196442 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="54_24309637" type="shape" x="-86.95201404523769" y="4762.612572801879" r="0" s="2.0895279435249487" class="line1">
+      <geom type="line">
+        <sp>-1257.06151196442 0</sp>
+        <ep>1257.06151196442 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="55_24309637" type="shape" x="-93.45756201194116" y="7243.906794578328" r="0" s="7.694711859465859" class="poly1">
+      <geom type="poly">
+        <p x="-341.94438130203855" y="-153.66857439336314"/>
+        <p x="341.94438130203855" y="-153.66857439336314"/>
+        <p x="341.94438130203855" y="153.66857439336314"/>
+        <p x="-341.94438130203855" y="153.66857439336314"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="56_24309637" type="text" x="-332.4449909552411" y="5625.370855025312" r="0" s="10.854690615714016" class="strong">
+      <height>27.6</height>
+      <width>439.3708304221183</width>
+      <p>
+        <text color="16711680"><![CDATA["해결해야 할 과제"]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="74_24309637" type="text" x="-136.909158611981" y="5091.386383385961" r="0" s="27.16374860094918" class="head">
+      <height>24</height>
+      <width>190.60810757843652</width>
+      <p align="justify">
+        <text><![CDATA[The challenge]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="8" type="image" x="5031.594295388392" y="850.36421605472" r="0" s="2.4074984176853973">
+      <source w="1024" h="1024">1920744952<url>1920744952.PNG</url></source>
+      <sourceUrl>1네트워크 비교.PNG</sourceUrl>
+    <resource><id>1920744952</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/b/e/e604e40251b5938853d89188d8a2eef8a388a.PNG</url></resource></object>
+    <object id="85_24309637" type="text" x="1085.6902761654217" y="802.7809049431121" r="0" s="14.780468816382784" class="body">
+      <height>358.80000000000007</height>
+      <width>504.3075720893473</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[대리 출석]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[출석체크 시간 낭비]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[수업 분위기 저해]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[지각 처리의 불편함]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[목상태의 따른 목소리]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[정확성이 떨어짐]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text color="16711680"><![CDATA[ ▶ 인적으로나 물적으로 낭비]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="89_24309637" type="shape" x="-3322.3676485420806" y="-3443.663623509252" r="9.530840112632404e-16" s="4.076037549125223" class="line1">
+      <geom type="line">
+        <sp>-1469.6255685073368 0</sp>
+        <ep>1469.6255685073368 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="84_24309637" type="text" x="406.75" y="7244" r="0" s="7.441214304377482" class="body">
+      <height>303.6</height>
+      <width>828.719656531496</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[사용자의 고유한 식별자 필요]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[     (휴대폰 번호로는 부족, 사진 전송 시스템이 필요)]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[위도와 경도의 신뢰성 ]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[거리구하는 공식의 정확도]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[소켓을 통한 네트워킹의 한계]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Android OS 버젼 업그레이드(보안 이슈) ]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[      → 위치 정보를 가져오는데 제약]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="0_24309637" type="text" x="-106" y="-8983.8" r="0" s="77.17884944438285" class="head">
+      <height>48</height>
+      <width>183.84815279175277</width>
+      <p align="center">
+        <text><![CDATA[위치정보 기반의 ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[출석부 어플리케이션]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="0" type="button" x="6460.184363661818" y="6504.120529867307" r="0" s="6.2649881288658085" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>977.5936263501644</w>
+        <h>612.403149894625</h>
+      </size>
+    </object>
+    <object id="3" type="text" x="6376.685167375455" y="6436.3995247850235" r="0.19222596828051133" s="23.80731454289256" class="body">
+      <height>55.2</height>
+      <width>214.344</width>
+      <p align="center">
+        <text><![CDATA[Thanks for reading my newspaper.]]></text>
+      </p>
+    </object>
+    <object id="6" type="shape" x="6450.96305643684" y="-3237.50577077559" r="0" s="5.310645499894977" class="poly1">
+      <style borderThickness="0"/>
+      <style borderThickness="0"/>
+      <geom type="poly">
+        <p x="-494.0393209452129" y="-156.4102059726668"/>
+        <p x="494.0393209452129" y="-156.4102059726668"/>
+        <p x="494.0393209452129" y="156.4102059726668"/>
+        <p x="-494.0393209452129" y="156.4102059726668"/>
+        <t>0</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>headline</parentTemplate>
+      </meta>
+    </object>
+    <object id="4" type="text" x="6442.119066463285" y="-3241.834625009955" r="0" s="6.739908858506947" class="body">
+      <height>220.79999999999998</height>
+      <width>752.3696408312744</width>
+      <p>
+        <text><![CDATA[위도 - 지구상에서 적도를 기준으로 북쪽 또는 남쪽으로 ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[          얼마나 떨어져 있는지 나타내는 위치]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[경도 - 지구상에서 본초 자오선을 기준으로 동쪽 또는 서쪽으로 ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[          얼마나 떨어져 있는지 나타내는 위치]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="3247103"><![CDATA[본초자오선 -  세로선의 기준이 되는, 즉 경도 0°의 자오선을 말하며, ]]></text>
+      </p>
+      <p>
+        <text color="3247103"><![CDATA[                     런던의 구 그리니치 천문대를 지나는 자오선]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="9" type="image" x="7813.9909186266" y="845.3195670256957" r="0" s="2.3927721130898223">
+      <source w="1024" h="1024">1920822892<url>1920822892.png</url></source>
+      <sourceUrl>1smart check.png</sourceUrl>
+    <resource><id>1920822892</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/2/4/dbd4ed2e7e72f91eac478abfada2290322e38.png</url></resource></object>
+    <object id="10" type="text" x="-7880.968860126821" y="7144.6205292213335" r="0" s="5.45367462597223" class="body">
+      <height>331.20000000000005</height>
+      <width>487.1296599149453</width>
+      <p>
+        <text><![CDATA[서버에서 데이터를 받을 때 ]]></text>
+      </p>
+      <p>
+        <text color="16711680"><![CDATA[HeaderFile]]></text>
+        <text><![CDATA[ 을 통해서 현재 접속한 사용자가 ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[교수님인지 학생인지를 구분하고, ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[그에 따른 데이터를 처리할 수 있음]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[교수님의 경우에는]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[수업 시작 할 때 ]]></text>
+        <text color="16711680"><![CDATA[한 번]]></text>
+        <text><![CDATA[,]]></text>
+      </p>
+      <p>
+        <text><![CDATA[수업 종료 할 때 ]]></text>
+        <text color="16711680"><![CDATA[한 번]]></text>
+        <text><![CDATA[,]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[단,]]></text>
+        <text color="16711680"><![CDATA[ 두 번]]></text>
+        <text><![CDATA[의 접속을 통하여 ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[학생 출석 데이터를 가져 올 수 있음]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="181_24309637"/>
+    </s>
+    <s>
+      <eagle o="284_24309637"/>
+    </s>
+    <s>
+      <eagle o="19_24309637"/>
+    </s>
+    <s>
+      <eagle o="15_24309637"/>
+    </s>
+    <s>
+      <eagle o="20_24309637"/>
+    </s>
+    <s>
+      <eagle o="21_24309637"/>
+    </s>
+    <s>
+      <eagle o="16_24309637"/>
+    </s>
+    <s>
+      <eagle o="52_24309637"/>
+    </s>
+    <s>
+      <eagle o="0"/>
+    </s>
+    <s>
+      <eagle o="181_24309637"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('NanumGothic-P.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: NanumGothic-P;
+}
+
+@font-face
+{
+	src: url('SangSangTitleOTFM-P.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: SangSangTitleOTFM-P;
+}
+
+@font-face
+{
+	src: url('NanumGothicBold-P.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: NanumGothicBold-P;
+}
+
+.line1
+{
+	color: #4b4b4b;
+	gradEndColor: #4b4b4b;
+	gradStartColor: #4b4b4b;
+}
+
+.line2
+{
+	color: #737373;
+	gradEndColor: #737373;
+	gradStartColor: #737373;
+}
+
+.line3
+{
+	color: #f2827f;
+	gradEndColor: #f2827f;
+	gradStartColor: #f2827f;
+}
+
+.line4
+{
+	color: #3a91fb;
+	gradEndColor: #3a91fb;
+	gradStartColor: #3a91fb;
+}
+
+.line5
+{
+	color: #3a91fb;
+	gradEndColor: #3a91fb;
+	gradStartColor: #3a91fb;
+}
+
+.poly1
+{
+	borderThickness: 0;
+	color: #ccc;
+	gradEndAlpha: .2;
+	gradEndColor: #4b4b4b;
+	gradStartAlpha: .2;
+	gradStartColor: #4b4b4b;
+}
+
+.poly2
+{
+	borderThickness: 0;
+	color: #ccc;
+	gradEndColor: #737373;
+	gradStartColor: #737373;
+}
+
+.poly3
+{
+	borderThickness: 0;
+	color: #ccc;
+	gradEndColor: #f2827f;
+	gradStartColor: #f2827f;
+}
+
+.poly4
+{
+	borderThickness: 0;
+	color: #ccc;
+	gradEndColor: #8dbcfb;
+	gradStartColor: #8dbcfb;
+}
+
+.poly5
+{
+	borderThickness: 0;
+	color: #ccc;
+	gradEndColor: #3a91fb;
+	gradStartColor: #3a91fb;
+}
+
+Background
+{
+	gradEnd: #ccc;
+	gradStart: #ccc;
+}
+
+Grid
+{
+	color: #9a9a9a;
+}
+
+ZArrow
+{
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: .8;
+	gradEndColor: #000;
+	gradStartAlpha: .8;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: .5;
+	gradEndColor: #000;
+	gradStartAlpha: .5;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 0;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #323232;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #8dbcfb;
+	background-padding: 4;
+}
+
+ZLabel.head
+{
+	color: #646464;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #29d9c2;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #4b4b4b;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.7;
+	background-color: #8dbcfb;
+	background-padding: 4;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.6;
+	color: #64f9a1;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>7a334e3a</hash>
+<sync><oid>seif-tkneoxn</oid><title>thanks-for-reading-my-newspaper</title><hash>7a334e3a</hash></sync><config>ZlaruPuLl5lMg3cYOjzkhLtcf+gJXzl7m57sl/6sdvK4JikRGvd8iwf2mfIX0fcCeksG63SBX6vUJhV7q/seW/vwmgnzdqRTeSuv/Gs/IQouY/TyYtkTcx/SseBueYCCmHDGj/C3IjaBzOvI+8hlmkAotkv7ca1H34oYOr6iOEBEyrc+QVaxGt6bKoxqfio8Fsr8MvsD6PtuRO6A0PPBlwtTxERnsa5WCzQmueValLsNwgtEZeU6vBqX2rao3AdAQ+ooyUJwod2/cfA3JKDB0PqWMEh/4aHAGGz5K3i27+Jo+G+R56CfyU9EGKCRlm2uUiTKaCrmHkbrruzopry4ow==</config></zuiprezi>
