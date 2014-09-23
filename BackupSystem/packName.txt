@@ -1,0 +1,2 @@
+﻿com.kakao.talk
+com.facebook.katana
